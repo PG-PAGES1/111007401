@@ -1,0 +1,139 @@
+
+jiasu.jpg
+size: 1783,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rsu_frame_unpack/fs_glow_00
+  rotate: true
+  xy: 1, 1
+  size: 97, 374
+  orig: 132, 374
+  offset: 35, 0
+  index: -1
+rsu_frame_unpack/fs_glow_01
+  rotate: true
+  xy: 377, 1
+  size: 97, 374
+  orig: 132, 374
+  offset: 35, 0
+  index: -1
+rsu_frame_unpack/fs_glow_02
+  rotate: true
+  xy: 753, 1
+  size: 97, 374
+  orig: 132, 374
+  offset: 35, 0
+  index: -1
+rsu_frame_unpack/fs_glow_03
+  rotate: true
+  xy: 1129, 1
+  size: 97, 374
+  orig: 132, 374
+  offset: 35, 0
+  index: -1
+rsu_frame_unpack/fs_glow_04
+  rotate: false
+  xy: 1586, 100
+  size: 97, 374
+  orig: 132, 374
+  offset: 35, 0
+  index: -1
+rsu_frame_unpack/fs_glow_05
+  rotate: false
+  xy: 1, 100
+  size: 132, 374
+  orig: 132, 374
+  offset: 0, 0
+  index: -1
+rsu_frame_unpack/fs_glow_06
+  rotate: false
+  xy: 135, 100
+  size: 132, 374
+  orig: 132, 374
+  offset: 0, 0
+  index: -1
+rsu_frame_unpack/fs_glow_07
+  rotate: false
+  xy: 269, 100
+  size: 132, 374
+  orig: 132, 374
+  offset: 0, 0
+  index: -1
+rsu_frame_unpack/fs_glow_08
+  rotate: false
+  xy: 403, 100
+  size: 132, 374
+  orig: 132, 374
+  offset: 0, 0
+  index: -1
+rsu_frame_unpack/fs_glow_09
+  rotate: false
+  xy: 537, 100
+  size: 132, 374
+  orig: 132, 374
+  offset: 0, 0
+  index: -1
+rsu_frame_unpack/fs_glow_10
+  rotate: false
+  xy: 671, 100
+  size: 132, 374
+  orig: 132, 374
+  offset: 0, 0
+  index: -1
+rsu_frame_unpack/fs_glow_11
+  rotate: false
+  xy: 805, 100
+  size: 132, 374
+  orig: 132, 374
+  offset: 0, 0
+  index: -1
+rsu_frame_unpack/fs_glow_12
+  rotate: false
+  xy: 939, 100
+  size: 132, 374
+  orig: 132, 374
+  offset: 0, 0
+  index: -1
+rsu_frame_unpack/fs_glow_13
+  rotate: false
+  xy: 1073, 100
+  size: 132, 374
+  orig: 132, 374
+  offset: 0, 0
+  index: -1
+rsu_frame_unpack/fs_glow_14
+  rotate: false
+  xy: 1207, 100
+  size: 132, 374
+  orig: 132, 374
+  offset: 0, 0
+  index: -1
+rsu_frame_unpack/fs_glow_15
+  rotate: false
+  xy: 1341, 100
+  size: 132, 374
+  orig: 132, 374
+  offset: 0, 0
+  index: -1
+rsu_frame_unpack/fs_glow_16
+  rotate: false
+  xy: 1475, 100
+  size: 109, 374
+  orig: 132, 374
+  offset: 23, 0
+  index: -1
+rsu_frame_unpack/fs_glow_17
+  rotate: false
+  xy: 1685, 100
+  size: 97, 374
+  orig: 132, 374
+  offset: 35, 0
+  index: -1
+tuji/mask
+  rotate: false
+  xy: 1505, 85
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
